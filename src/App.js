@@ -7,8 +7,13 @@ import FooterComponent from './components/FooterComponent';
 import CreateEmployeeComponent from './components/CreateEmployeeComponent';
 import ViewEmployeeComponent from './components/ViewEmployeeComponent';
 //This Added added added added adddes added
+<<<<<<< HEAD
 //Hi abrar
 
+=======
+// Hi abrar
+//Hi Rajendra
+>>>>>>> 787188fd8b4af5dea48afeb5acd0efbcf5547db8
 //Hiiii
 function App() {
   return (
